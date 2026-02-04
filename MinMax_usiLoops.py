@@ -7,3 +7,6 @@ for num in list:
         b = num
 print("Minimum:", b)
 print("Maximum:", a)
+
+
+
