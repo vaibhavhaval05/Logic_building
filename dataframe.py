@@ -5,6 +5,6 @@ data = {
 }
 
 saee = p.DataFrame(data,index=["x","y","z"])
-
 print(saee)
 print(saee.loc[["x","y","z"]])
+
